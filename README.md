@@ -1,3 +1,5 @@
 # SP - Signal Processing
 
-Curated List of Signal Processing REpositories
+Curated List of Signal Processing Repositories
+
+- [ ] [DSP](https://github.com/setrar/dsp)
